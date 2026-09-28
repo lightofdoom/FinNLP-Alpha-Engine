@@ -104,6 +104,7 @@ Prefer **04:00–20:00 ET weekdays** for paper orders. Overnight and weekend run
 I used AI coding assistants (including Cursor) as a tool on this project: scaffolding modules, drafting tests, project planning, and walking through design tradeoffs. I ran the paper loop myself, wrote and ran the unit tests, diagnosed live failures (Ollama down, session gates, disagree vetoes), and redesigned the system when the earlier versions broke down.
 
 A system of this size is a lot of surface area to cover. Using AI for the mechanical parts is what made it possible for me to spend time on important decision making parts: the core design decisions, what the bot is allowed to do, what it is not allowed to do, and how much of an impact it has in trading decisions.
+
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
